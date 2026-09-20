@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there 👋</h1>
+</div>
+
+My name is theyhaveiceinthem <i>(or just theyhaveice...)</i>
 
 <!--
 **theyhaveiceinthem/theyhaveiceinthem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
